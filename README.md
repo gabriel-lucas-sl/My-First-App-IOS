@@ -1,4 +1,4 @@
 # Dicee Project
 
-<img src="./Dicee-IOS13/Documentation/gravacao.gif" alt="Project record" width="100%">
+<img src="./assets/gravacao.gif" alt="Project record" width="100%">
 
