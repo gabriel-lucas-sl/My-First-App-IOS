@@ -1,0 +1,6 @@
+[submodule "Dicee-IOS"]
+	path = Dicee-IOS
+	url = https://github.com/appbrewery/Dicee-iOS13
+[submodule "Dicee"]
+	path = Dicee
+	url = https://github.com/appbrewery/Dicee-iOS13
