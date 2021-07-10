@@ -1,7 +1,11 @@
 # Dicee Project
 
 
-<video width="100%" height="400" autoplay>
-<source src="./assets/gravacao.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/61299646/125150710-62eb8900-e118-11eb-9386-1b9c70afcce5.mp4
+
+
+
+
+
+
+
