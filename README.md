@@ -1,4 +1,3 @@
 # Dicee Project
 
-<img src="./assets/gravacao.gif" alt="Project record" width="100%">
-
+<img src="./assets/gravacao.mp4" alt="Project record" width="100%">
